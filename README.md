@@ -4,6 +4,13 @@
 
 Esta prueba técnica consta de un backend desarrollado con .NET Core Web API en la versión .NET 8. y de un frontend que se ha desarrollado utilizando React con Vite, Tailwind, NextUI, Redux y Axios. La versión de Node.js utilizada es v20.11.1. Ademas de usar como Base de Datos, MySQL en la version 8.0.36
 
+para clonar este repo usar: ```git clone --recurse-submodules ...```
+
+Ejemplo: 
+
+    git clone --recurse-submodules https://github.com/MarckJrquin/prueba_tecnica_aseguradora.git
+
+
 ## Tecnologías Utilizadas
 
 ### Base de Datos
