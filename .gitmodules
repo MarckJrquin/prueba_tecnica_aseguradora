@@ -1,0 +1,6 @@
+[submodule "backend_aseguradora"]
+	path = backend_aseguradora
+	url = https://github.com/MarckJrquin/backend_aseguradora.git
+[submodule "frontend_aseguradora"]
+	path = frontend_aseguradora
+	url = https://github.com/MarckJrquin/frontend_aseguradora.git
