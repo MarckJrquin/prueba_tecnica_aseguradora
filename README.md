@@ -7,8 +7,10 @@ Esta prueba técnica consta de un backend desarrollado con .NET Core Web API en 
 ## Tecnologías Utilizadas
 
 ### Base de Datos
+- **Nombre de BD**: aseguradora
 - **Gestor de BD**: MySQL
 - **Versión de Node.js**: 8.0.36
+- **Revisar conexión**: (Puerto:  3306; Usuario: root; Pass: 12345)
 
 ### Backend
 - **Framework**: .NET Core Web API
