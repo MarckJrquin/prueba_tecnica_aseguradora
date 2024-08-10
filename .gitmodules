@@ -4,3 +4,6 @@
 [submodule "frontend_aseguradora"]
 	path = frontend_aseguradora
 	url = https://github.com/MarckJrquin/frontend_aseguradora.git
+[submodule "app_aseguradora"]
+	path = app_aseguradora
+	url = https://github.com/MarckJrquin/app_aseguradora.git
